@@ -7,3 +7,6 @@ Año_Lanzamiento INT,
 Genero_Pelicula VARCHAR2(100)
 )
 ```
+
+Librerias utilizadas:
+https://drive.google.com/file/d/1ftvzmcutfNkY81MVqw7o_AHcWU0HGWfE/view?usp=sharing
